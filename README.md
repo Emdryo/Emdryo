@@ -11,10 +11,10 @@ This repository includes a backtracking algoritm for solving sodokus along with 
 - AppStat2024
 This repository is from a course in Applied Statistics i took in 2024. Some of the solutions i made are added under "Solutions" in the repository. It is a branch, and as such everything but that folder is from the course github.
 
-- Random codings
+- Random codings  
 This repository encompasses random stuff i've coded, and as such there may not be a direct relation between two different files
 
-- Project
+- Project  
 This repository has the code I've written for different projects
 <!---
 Emdryo/Emdryo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
