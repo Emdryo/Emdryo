@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Konrad S. Olsen
 - 👀 I’m studying: Physics
 - 🌱 I’m currently learning: Python
+- 
 Repositories:
 -Sudoku solver
 This repository includes a backtracking algoritm for solving sodokus along with a fine human-approach to solving (simple) sudokus. A backtrakcing algoritm for solving hyper sodokus is also existant
